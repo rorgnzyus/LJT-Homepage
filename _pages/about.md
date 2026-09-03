@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate in Computer Science at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by [Professor Junxian He](https://jxhe.github.io/) in the [HKUST NLP Group](https://hkust-nlp.github.io/). My research focuses on natural language processing and machine learning, with specific interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLMs), and LLM Truthfulness and Interpretability.
+I am a first-year PhD candidate in Computer Science at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by Professor Junxian He in the HKUST NLP Group. My research focuses on natural language processing and machine learning, with specific interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLMs), and LLM Truthfulness and Interpretability.
 
-I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024, where I was also advised by Professor Junxian He during my undergraduate studies.
+I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He during my undergraduate studies.
 
 Education
 ======
@@ -62,7 +62,6 @@ Awards
 Skills
 ======
 - **Research Areas**: Natural Language Processing, Machine Learning, LLM Reasoning, Reinforcement Learning, Vision-Language Models, LLM Interpretability
-- **Programming**: Python, PyTorch
 
 Contact
 ======
